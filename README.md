@@ -93,3 +93,66 @@ git clone https://github.com/tonpseudo/SecureDuino.git
 ---
 
 ## 📁 Structure du dépôt
+
+SecureDuino/
+│
+├── code/
+│   └── SecureDuino.ino       # Code principal
+│
+├── docs/
+│   ├── algorigramme.png      # Algorigramme du système
+│   ├── schema_wokwi.png      # Schéma de câblage virtuel
+│   ├── bilan_puissance.xlsx  # Tableau de consommation électrique
+│   └── rapport.pdf           # Rapport journalier complet
+│
+├── CAO/
+│   ├── boitier.svg           # Fichier découpe laser
+│   └── boitier.blend         # Modélisation 3D Blender
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+
+---
+
+## 📊 Bilan de consommation
+
+| Mode | Courant total |
+|---|---|
+| Veille | ~72 mA |
+| Ouverture (gâche active) | ~772 mA ⚠️ |
+
+> Le pic à 772 mA lors de l'activation de la gâche nécessite une alimentation externe
+> (boîtier 4x piles AA) — ne pas alimenter uniquement via le port USB de l'Arduino.
+
+---
+
+## 🗓️ Avancement
+
+- [x] Algorigramme et conception logique
+- [x] Simulation sur Wokwi
+- [x] Bilan de puissance
+- [x] Tests unitaires de chaque composant
+- [x] Intégration complète sur breadboard
+- [x] Code principal fonctionnel
+- [x] Sauvegarde EEPROM + changement de mot de passe
+- [x] Modélisation 3D du boîtier (Blender)
+- [x] Fichiers SVG envoyés pour découpe laser
+- [ ] Assemblage mécanique du boîtier
+- [ ] Test de la gâche sur alimentation autonome
+- [ ] Impression 3D poignée + support interne
+- [ ] Tests finaux complets
+- [ ] Soutenance (semaine du 18 juin 2026)
+
+---
+
+## 🔗 Simulation en ligne
+
+Le projet est simulable directement sur Wokwi :  
+👉 [Ouvrir la simulation](https://wokwi.com/projects/458386064600742913)
+
+---
+
+## 📄 Licence
+
+Ce projet est sous licence [MIT](LICENSE).
