@@ -94,24 +94,7 @@ git clone https://github.com/tonpseudo/SecureDuino.git
 
 ## 📁 Structure du dépôt
 
-SecureDuino/
-│
-├── code/
-│   └── SecureDuino.ino       # Code principal
-│
-├── docs/
-│   ├── algorigramme.png      # Algorigramme du système
-│   ├── schema_wokwi.png      # Schéma de câblage virtuel
-│   ├── bilan_puissance.xlsx  # Tableau de consommation électrique
-│   └── rapport.pdf           # Rapport journalier complet
-│
-├── CAO/
-│   ├── boitier.svg           # Fichier découpe laser
-│   └── boitier.blend         # Modélisation 3D Blender
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+à venir
 
 ---
 
