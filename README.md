@@ -146,7 +146,7 @@ SecureDuino/
 ## 🔗 Simulation
 
 Le projet est simulable en ligne sur Wokwi sans aucun matériel :  
-👉 **[Ouvrir la simulation Wokwi]([https://wokwi.com/projects/458386064600742913](https://wokwi.com/projects/464377087354881025])**
+👉 **[Ouvrir la simulation Wokwi]([https://wokwi.com/projects/458386064600742913](https://wokwi.com/projects/464377087354881025))**
 
 ---
 
