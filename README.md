@@ -120,6 +120,8 @@ git clone https://github.com/paulcrg/SecureDuino.git
 ---
 
 ## 📁 Structure du dépôt
+
+---
 SecureDuino/
 │
 ├── code/
