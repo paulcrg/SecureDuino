@@ -1,7 +1,7 @@
-# 🔐 SecureDuino — Coffre-fort Arduino
+# 🔐 SecureDuino - Coffre-fort Arduino
 
 > Projet réalisé par **Paul Crémoux Guiblain** & **Lilian Joyet**  
-> E1 — ESEO Dijon | 2025-2026
+> E1 - ESEO | 2025-2026
 
 ---
 
@@ -68,7 +68,7 @@ l'état de la porte.
 | Gâche solénoïde | 0 mA | **~600 mA** | ⚠️ Pic critique |
 | **TOTAL** | **~72 mA** | **~772 mA** | |
 
-> ⚠️ **Important** — Le pic à ~772 mA lors de l'activation de la gâche dépasse largement
+> ⚠️ **Important** - Le pic à ~772 mA lors de l'activation de la gâche dépasse largement
 > la capacité du port USB (500 mA max). Une **alimentation externe** via le boîtier de piles
 > est obligatoire pour tester la gâche sans risquer d'endommager l'Arduino ou le PC.
 
