@@ -17,11 +17,11 @@ l'état de la porte.
 
 ## ✨ Fonctionnalités
 
-- 🔑 Saisie sécurisée du code PIN — masquage par `*`
-- 🔊 Retour sonore interactif — bip à chaque touche, bip succès, bip erreur
+- 🔑 Saisie sécurisée du code PIN - masquage par `*`
+- 🔊 Retour sonore interactif - bip à chaque touche, bip succès, bip erreur
 - 🔒 Blocage automatique de 10 secondes après 3 mauvais codes consécutifs
 - 🔄 Changement de mot de passe via la touche `A` avec confirmation
-- 💾 Sauvegarde persistante en mémoire **EEPROM** — résiste aux coupures d'alimentation
+- 💾 Sauvegarde persistante en mémoire **EEPROM** - résiste aux coupures d'alimentation
 - 🚪 Surveillance de l'état de la porte via capteur magnétique ILS
 
 ---
