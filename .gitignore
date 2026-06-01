@@ -1,0 +1,18 @@
+# Fichiers de compilation Arduino
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Fichiers temporaires IDE Arduino
+*.bak
+.DS_Store
+
+# Fichiers de sauvegarde Blender
+*.blend1
+*.blend2
+
+# Fichiers systeme Windows
+Thumbs.db
+Desktop.ini
